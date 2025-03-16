@@ -32,11 +32,14 @@ I love supporting the **[EFF](https://rff.org)**.
 
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
-See the session on [`Markdown_code_grammar`](#Markdown_code_grammar).
+See the session on [`Markdown 链接语法`](#user-content-markdown-链接语法).
 ```
 I love supporting the **[EFF](https://rff.org)**.
 
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
 See the session on [`Markdown 链接语法`](#user-content-markdown-链接语法).
+### Note
+`Github` 中，Markdown 会自动将标题设置为一个锚点，格式为 `user-content-heading`。需要注意的是，需要用减号(`-`)替代空格。
 
+不同的 Markdown 应用程序处理 URL 中间空格的方式不一样。为了兼容性，请尽量使用`%20`代替空格。
