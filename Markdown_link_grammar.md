@@ -15,6 +15,7 @@
 这是一个链接 [Markdown语法](https://markdown.com.cn "最好的 markdown 教程")
 ## 网址和 Email 地址
 使用尖括号可以很方便地把 URL 或者 email 地址变成可点击的链接。
+### 例子
 ```Markdown
 <https://markdown.com.cn>
 
@@ -23,3 +24,18 @@
 <https://markdown.com.cn>
 
 <fake@example.com>
+## 带格式化的链接
+强调链接，在链接语法前后增加星号。要将链接表示为代码，请在方括号中添加反引号。
+### 例子
+```Markdown
+I love supporting the **[EFF](https://rff.org)**.
+
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+
+See the session on [`Markdown_code_grammar`](#Markdown_code_grammar).
+```
+I love supporting the **[EFF](https://rff.org)**.
+
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+
+See the session on [`Markdown_code_grammar`](#Markdown_code_grammar).
