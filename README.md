@@ -1,5 +1,6 @@
 # Markdown Study
 ![Markdown](/markdown.png)
+
 This repository is used to store a series of note files written while learning Markdown syntax.
 
 The Markdown study notes stored in this repository are based on the learning from the [Markdown Tutorial](https://markdown.com.cn/). Thanks to the selfless sharing of the `Markdown Tutorial`.
