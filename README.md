@@ -1,5 +1,7 @@
 # Markdown Study
 这个仓库用于储存学习 Markdown 语法时写下的一系列笔记文件。
+
+本仓库所储存的 Markdown 学习笔记均是基于 [Markdown 教程](https://markdown.com.cn/) 学习而记录的。感谢 `Markdown 教程` 的无私分享。
 ## Markdown 标题语法
 在 [Markdown_heading_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_heading_grammar.md) 中，储存了有关在 Markdown 中建立并编辑标题的一系列操作。Markdown 的分级标题非常适合用于项目介绍等需要明确层级关系的内容。
 ## Markdown 段落语法
@@ -33,3 +35,5 @@ Markdown 中的强调操作主要包含如下几项：
 到此为止，有关 Markdown 使用语法的内容并未结束，但是这些内容已经足矣应对绝大多数的使用需求，加之作者时间紧张，因此暂时不再更加深入的学习。
 
 此外 `Github` 支持在 Markdown 中使用 LaTex 键入公式。这点在之后的使用中一定会有需求，但是由于 LaTex 也是一门完整的输入语言，因此日后再做更新，更新后会将链接附于此文末。
+
+最后，Markdown 是一门语言，是一种工具，工具绝非目的。学会 Markdown，就像画家得到画笔，匠人拿起刻刀。工具本身的价值并不大，工具的价值体现于使用工具的人用它创作的成果。期待使用 Markdown 创造的一片蓝海。
