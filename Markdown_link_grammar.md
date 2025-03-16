@@ -38,4 +38,5 @@ I love supporting the **[EFF](https://rff.org)**.
 
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
-See the session on [`Markdown_code_grammar`](#Markdown_code_grammar).
+See the session on [`Markdown 链接语法`](#Markdown 链接语法).
+
