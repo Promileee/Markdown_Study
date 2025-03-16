@@ -29,3 +29,7 @@ Markdown 中的强调操作主要包含如下几项：
 在 [Markdown_escape_character_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_escape_character_grammar.md) 中储存了如何在 Markdown 中使用原本用于格式化 Windows 文档字符的相关语法。
 ## Markdown 表格语法
 在 [Markdown_table_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_table_grammar.md) 中储存了有关如何在 Markdown 中建立一个表格，以及如何设置表格对齐的相关内容。
+## 结语
+到此为止，有关 Markdown 使用语法的内容并未结束，但是这些内容已经足矣应对绝大多数的使用需求，加之作者时间紧张，因此暂时不再更加深入的学习。
+
+此外 `Github` 支持在 Markdown 中使用 LaTex 键入公式。这点在之后的使用中一定会有需求，但是由于 LaTex 也是一门完整的输入语言，因此日后再做更新，更新后会将链接附于此文末。
