@@ -13,3 +13,11 @@
 这是一个链接 [Markdown语法](https://markdown.com.cn "最好的 markdown 教程")
 ```
 这是一个链接 [Markdown语法](https://markdown.com.cn "最好的 markdown 教程")
+## 网址和 Email 地址
+使用尖括号可以很方便地把 URL 或者 email 地址变成可点击的链接。
+```Markdown
+<https://markdown.com.cn>
+<fake@example.com>
+```
+<https://markdown.com.cn>
+<fake@example.com>
