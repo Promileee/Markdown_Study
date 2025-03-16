@@ -1,39 +1,52 @@
 # Markdown Study
-这个仓库用于储存学习 Markdown 语法时写下的一系列笔记文件。
+This repository is used to store a series of note files written while learning Markdown syntax.
 
-本仓库所储存的 Markdown 学习笔记均是基于 [Markdown 教程](https://markdown.com.cn/) 学习而记录的。感谢 `Markdown 教程` 的无私分享。
-## Markdown 标题语法
-在 [Markdown_heading_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_heading_grammar.md) 中，储存了有关在 Markdown 中建立并编辑标题的一系列操作。Markdown 的分级标题非常适合用于项目介绍等需要明确层级关系的内容。
-## Markdown 段落语法
-在 [Markdown_paragraph_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_paragraph_grammar.md) 中，储存了有关在 Markdown 中创建段落的内容。
-## Markdown 换行语法
-在 [Markdown_line_break_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_line_break_grammar.md) 中，储存了有关如何在 Markdown 中实现换行操作的内容。
-## Markdown 强调语法
-在 [Markdown_stress_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_stress_grammar.md) 中，储存了有关如何在 Markdown 中强调部分内容的语法内容。
+The Markdown study notes stored in this repository are based on the learning from the [Markdown Tutorial](https://markdown.com.cn/). Thanks to the selfless sharing of the `Markdown Tutorial`.
 
-Markdown 中的强调操作主要包含如下几项：
-- 粗体 (Bold)
-- 斜体 (Italic)
-- 同时使用粗体和斜体
-## Markdown 引用语法
-在 [Markdown_quote_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_quote_grammar.md) 中，储存了有关如何在 Markdown 中创建引用块的内容，以及引用块嵌套的相关内容。
-## Markdown 列表语法
-在 [Markdown_list_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_list_grammar.md) 中储存了有关在 Markdown 中使用列表的内容。Markdown 中的列表可以分为有序列表和无序列表。
-## Markdown 代码语法
-在 [Markdown_code_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_code_grammar.md) 中储存了有关在 Markdown 中表示代码的语法，以及使用代码块引用代码的内容。
-## Markdown 分隔线语法
-在 [Markdown_horizontal_rule_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_horizontal_rule_grammar.md) 中储存了有关在 Markdown 中使用分隔线的内容。
-## Markdown 链接语法
-在 [Markdown_link_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_link_grammar.md) 中储存了在 Markdown 中使用链接的语法，可以将 URL 或 E-Mail 地址变成可点击的链接，或储存于超链接。
-## Markdown 图片语法
-在 [Markdown_picture_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_picture_grammar.md) 中储存了如何在 Markdown 中添加一张图片的语法，以及如何给图片添加超链接的语法。
-## Markdown 转义语法
-在 [Markdown_escape_character_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_escape_character_grammar.md) 中储存了如何在 Markdown 中使用原本用于格式化 Windows 文档字符的相关语法。
-## Markdown 表格语法
-在 [Markdown_table_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_table_grammar.md) 中储存了有关如何在 Markdown 中建立一个表格，以及如何设置表格对齐的相关内容。
-## 结语
-到此为止，有关 Markdown 使用语法的内容并未结束，但是这些内容已经足矣应对绝大多数的使用需求，加之作者时间紧张，因此暂时不再更加深入的学习。
+## Markdown Heading Syntax
+In [Markdown_heading_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_heading_grammar.md), you can find a series of operations related to creating and editing headings in Markdown. Markdown's hierarchical headings are particularly suitable for content like project introductions that require clear hierarchical relationships.
 
-此外 `Github` 支持在 Markdown 中使用 LaTex 键入公式。这点在之后的使用中一定会有需求，但是由于 LaTex 也是一门完整的输入语言，因此日后再做更新，更新后会将链接附于此文末。
+## Markdown Paragraph Syntax
+In [Markdown_paragraph_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_paragraph_grammar.md), you can find content related to creating paragraphs in Markdown.
 
-最后，Markdown 是一门语言，是一种工具，工具绝非目的。学会 Markdown，就像画家得到画笔，匠人拿起刻刀。工具本身的价值并不大，工具的价值体现于使用工具的人用它创作的成果。期待使用 Markdown 创造的一片蓝海。
+## Markdown Line Break Syntax
+In [Markdown_line_break_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_line_break_grammar.md), you can find information on how to implement line breaks in Markdown.
+
+## Markdown Emphasis Syntax
+In [Markdown_stress_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_stress_grammar.md), you can find syntax related to emphasizing parts of the content in Markdown.
+
+The emphasis operations in Markdown mainly include the following:
+- **Bold**
+- *Italic*
+- ***Bold and Italic***
+
+## Markdown Quote Syntax
+In [Markdown_quote_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_quote_grammar.md), you can find content related to creating blockquotes in Markdown, as well as nested blockquotes.
+
+## Markdown List Syntax
+In [Markdown_list_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_list_grammar.md), you can find content related to using lists in Markdown. Lists in Markdown can be divided into ordered lists and unordered lists.
+
+## Markdown Code Syntax
+In [Markdown_code_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_code_grammar.md), you can find syntax related to representing code in Markdown, as well as using code blocks to reference code.
+
+## Markdown Horizontal Rule Syntax
+In [Markdown_horizontal_rule_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_horizontal_rule_grammar.md), you can find content related to using horizontal rules in Markdown.
+
+## Markdown Link Syntax
+In [Markdown_link_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_link_grammar.md), you can find syntax related to using links in Markdown, which can turn URLs or email addresses into clickable links or store them in hyperlinks.
+
+## Markdown Image Syntax
+In [Markdown_picture_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_picture_grammar.md), you can find syntax related to adding images in Markdown, as well as how to add hyperlinks to images.
+
+## Markdown Escape Syntax
+In [Markdown_escape_character_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_escape_character_grammar.md), you can find syntax related to using characters originally intended for formatting Windows documents in Markdown.
+
+## Markdown Table Syntax
+In [Markdown_table_grammar.md](https://github.com/Promileee/Markdown_Study/blob/main/Markdown_table_grammar.md), you can find content related to creating tables in Markdown, as well as setting table alignment.
+
+## Conclusion
+At this point, the content related to Markdown syntax is not exhaustive, but it is sufficient to meet the needs of most use cases. Due to the author's time constraints, further in-depth learning will be postponed for now.
+
+Additionally, `GitHub` supports using LaTeX to input formulas in Markdown. This will certainly be useful in the future, but since LaTeX is a complete input language in itself, updates on this will be made later, and the link will be appended to the end of this article.
+
+Finally, Markdown is a language and a tool, but the tool itself is not the goal. Learning Markdown is like a painter acquiring a brush or a craftsman picking up a chisel. The value of the tool is not significant on its own; its value lies in the creations of those who use it. I look forward to the vast possibilities that Markdown can help create.
