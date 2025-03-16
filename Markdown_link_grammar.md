@@ -17,7 +17,9 @@
 使用尖括号可以很方便地把 URL 或者 email 地址变成可点击的链接。
 ```Markdown
 <https://markdown.com.cn>
+
 <fake@example.com>
 ```
 <https://markdown.com.cn>
+
 <fake@example.com>
